@@ -84,4 +84,5 @@ $(function(){
 		$('input[type="submit"]').on('click', changeAction);
 		
 	});
+
 })
